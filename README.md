@@ -1,4 +1,7 @@
-# Marketplace MBA
+# Desafio Prático - Marketplace MBA
+
+O projeto é um site desktop de gestão de produtos de venda em marketplace, com dashboard e listagem de produtos.
+Esse é um dos desafios prático do MBA Full-Stack, um dos conteúdos disponíveis para alunos da Rocketseat.
 
 ## Setup
 
